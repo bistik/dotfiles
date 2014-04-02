@@ -1,1 +1,2 @@
 @DB::typeahead = ('{{v');
+use DB::Color;
