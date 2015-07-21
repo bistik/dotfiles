@@ -4,9 +4,13 @@ set directory=~/.vim/backup/,/tmp/
 set noswapfile
 
 set tabstop=4
+set shiftwidth=4
 set expandtab
-set shiftwidth
+
+" line numbers
 set number
 
 " same indention as prev line
 set autoindent
+
+set cmdheight=2
